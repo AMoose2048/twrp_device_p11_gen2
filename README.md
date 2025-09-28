@@ -8,7 +8,7 @@ What works?
 - [x] MTP
 - [x] OTG 
 - [ ] Decryption. Use DFE-NEO*
-- [ ] Fastboot. Use bootloader as fastboot
+- [ ] Fastboot is iffy. Use bootloader as fastboot instead
 - [ ] Correct date
 - [ ] Flashing GSI. Untested as this was never my intention
 
